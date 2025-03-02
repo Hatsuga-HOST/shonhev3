@@ -54,8 +54,8 @@ global.tekspushkonv4 = ""
 global.saluran = "120363383347233294@newsletter"
 global.idsaluran = "120363383347233294@newsletter"
 global.gh = "https://github.com/Hatsuga-HOST"
-global.wagc = 'https://chat.whatsapp.com/GQ5Gp0eSeDS6dPBYeHE6kf'
-global.wach = "https://whatsapp.com/channel/0029Vb0v3F71yT264EejzJ3e"
+global.wagc = 'https://chat.whatsapp.com/KfcYveJuuah0o38GQMS2ll'
+global.wach = ""
 global.ibbKey = "e73afc3e94477852c77e41a41572fa8d"
 // Apikey
 global.APIs = {
