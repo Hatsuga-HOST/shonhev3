@@ -25,9 +25,9 @@ global.version = "3.3.3"
 global.forpdf = fs.readFileSync("./urpdf.jpg")
 global.forpdf2 = fs.readFileSync("./urpdf2.jpg")
 global.tempatDB = 'database.json';
-global.itg = "sh0.ydaa & tngxaja"
-global.crown = "🍄 ShoNhe - DaTngxz"
-global.ytbb = "sychyy"
+global.itg = "frskmlnee"
+global.crown = "🍄 SugaXz"
+global.ytbb = "zeanstoree"
 //━━━━━━━━━━━━━━━[ PAYMENT SETTING 
 global.nomordana = "0881027174423" //nomer danamu (klo gak ada kosongin cuok
 global.namadana = "Lintang Pratama Aditya K" //nama sesuai nomer dana
