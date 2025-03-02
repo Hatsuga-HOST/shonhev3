@@ -1,17 +1,17 @@
 
 const chalk = require("chalk")
 const fs = require("fs")
-global.namastore = "SHONHE DOESN'T HAVE A SHOP"
- global.namaowner = "DaTngxz"
-  global.ownername = "DaTngxz"
-global.ownerNumber = ["6288989971490@s.whatsapp.net"]
-global.owner = ['6288989971490']
+global.namastore = "SUGA STORE"
+ global.namaowner = "SugaXz"
+  global.ownername = "SugaXz"
+global.ownerNumber = ["6285123621746@s.whatsapp.net"]
+global.owner = ['6285123621746']
 global.namaBot = "𝙎𝙝𝙤𝙉𝙝𝙚 🅥❸"
 global.namabot = "𝙎𝙝𝙤𝙉𝙝𝙚 🅥❸"
-global.nomerOwner = "6288989971490"
-global.nomorOwner = ['6288989971490']
-global.botnum = ['62881027174423']
-global.namaDeveloper = "TT:ohhinitngxy " //jangn diubh bng pelisss
+global.nomerOwner = "6285123621746"
+global.nomorOwner = ['6285123621746']
+global.botnum = ['6281387873255']
+global.namaDeveloper = "TT: " //jangn diubh bng pelisss
 global.packname = "𝙎𝙝𝙤𝙉𝙝𝙚 🅥❸"
 global.namach = "🚀 ShoNhe Botz"
 global.descown = "𝙎𝙝𝙤𝙉𝙝𝙚 🅥❸ ©𝙱𝚢 𝙽𝙷𝙴𝙱𝚘𝚝𝚡 & 𝚂𝚢𝚌𝚑𝚢𝚢 "
