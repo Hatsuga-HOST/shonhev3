@@ -6,9 +6,10 @@ global.menuforu = (prefix, simbols) => {
 return `┌╾⚟┉➲【𝙎𝙔𝙎𝙏𝙀𝙈 𝙈𝙀𝙉𝙐】─═⚔️═─┐
 │  
 │  🔗 *Social Media Links* 🔗
-│  ⟿ TikTok: ${ttk}
-│  ⟿ YouTube: ${ytbb}
-│  ⟿ Instagram: ${itg}
+│  ⟿ TikTok: ${https://www.tiktok.com/@kenz_kecee}
+│  ⟿ YouTube: ${https://www.youtube.com/channel/ZiaanStoree}
+│  ⟿ Instagram: ${https://www.instagram.com/frskmlnee}
+│  ⟿ WhatsApp: ${https://wa.me/+6285123621746} 
 │  ⟿ Github Suga:\nhttps://github.com/Hatsuga-HOST
 │  
 └────────────────────────┘
