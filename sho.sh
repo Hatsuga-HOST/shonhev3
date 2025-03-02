@@ -89,8 +89,6 @@ loading "💻 Compiling payload..."
 sleep 1
 loading "🔓 Exploiting vulnerabilities..."
 sleep 1
-loading "🔥 Injecting backdoor..."
-sleep 1
 
 # Output akhir
 echo -e "${RED}${BOLD}${BLINK}ACCESS ROOT GRANTED! SYSTEM COMPROMISED!${NC}"
