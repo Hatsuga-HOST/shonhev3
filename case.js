@@ -2226,7 +2226,7 @@ Keep your skills sharp and never stop evolving."
 					mentionedJid: [m.sender],
 					"externalAdReply":
 					{
-						"title": `shoNhe BY DATNGXZ'S`,
+						"title": `shoNhe BY ILHAM'PICA`,
 						"body": `© DaTngxz'S`,
 						"previewType": "PHOTO",
 						"thumbnail": getRandomThumb2(),
